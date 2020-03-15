@@ -1,5 +1,5 @@
 # surfs_up.
-#Analysis using Jupyter Notebook, SQLite and Flask for Surf and ice cream shop
+# Analysis using Jupyter Notebook, SQLite and Flask for Surf and ice cream shop
 
 The present analysis gives an overview of seasonal temperature and precipitation amount in Oahu (Hawaii) for 2010-2017 (June vs. December). 
 
@@ -16,7 +16,7 @@ Average temperature in June is 75 degree while in December 71.
 
 According to the analysis the difference in precipitation and temperatures is not drastic, so Surf shop might be popular year-round. 
 
-##To get more comprehensive picture it’s recommended to make an additional analysis:
+## To get more comprehensive picture it’s recommended to make an additional analysis:
 
 1.	Conduct analysis about seasonal windspeed and wind direction
 2.	Additional analysis about wave heights, swell period and swell direction
